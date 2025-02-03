@@ -24,7 +24,14 @@ items:
     target: "/au-programme/les/"
     kind: page
     new_tab: false
-    children: []
+    children:
+    - title: Cap'Com
+      target: "/au-programme/les/capcom/"
+      kind: page
+      new_tab: false
+      children: []
+      path: "/pages/au-programme/les/capcom"
+      file: content/fr/pages/au-programme/les/capcom/_index.html
     path: "/pages/au-programme/les"
     file: content/fr/pages/au-programme/les/_index.html
   path: "/pages/au-programme"
