@@ -92,13 +92,6 @@ items:
     file: content/fr/pages/qui-sommes-nous/les-anciens/_index.html
   path: "/pages/qui-sommes-nous"
   file: content/fr/pages/qui-sommes-nous/_index.html
-- title: Et après ?
-  target: "/et-apres/"
-  kind: page
-  new_tab: false
-  children: []
-  path: "/pages/et-apres"
-  file: content/fr/pages/et-apres/_index.html
 - title: Boîte à outils
   target: "/boite-a-outils/"
   kind: page
@@ -120,6 +113,13 @@ items:
     file: content/fr/pages/boite-a-outils/les-entreprises/_index.html
   path: "/pages/boite-a-outils"
   file: content/fr/pages/boite-a-outils/_index.html
+- title: Et après ?
+  target: "/et-apres/"
+  kind: page
+  new_tab: false
+  children: []
+  path: "/pages/et-apres"
+  file: content/fr/pages/et-apres/_index.html
 - title: Actualités
   target: "/actualites/"
   kind: page
