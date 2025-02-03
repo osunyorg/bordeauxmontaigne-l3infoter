@@ -8,13 +8,6 @@ items:
   children: []
   path: "/pages/au-programme"
   file: content/fr/pages/au-programme/_index.html
-- title: Boîte à outils
-  target: "/boite-a-outils/"
-  kind: page
-  new_tab: false
-  children: []
-  path: "/pages/boite-a-outils"
-  file: content/fr/pages/boite-a-outils/_index.html
 - title: Promos
   target: "/promos/"
   kind: page
@@ -22,6 +15,13 @@ items:
   children: []
   path: "/pages/promos"
   file: content/fr/pages/promos/_index.html
+- title: Boîte à outils
+  target: "/boite-a-outils/"
+  kind: page
+  new_tab: false
+  children: []
+  path: "/pages/boite-a-outils"
+  file: content/fr/pages/boite-a-outils/_index.html
 - title: Actualités
   target: "/actualites/"
   kind: page
