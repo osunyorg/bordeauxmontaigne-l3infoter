@@ -71,13 +71,13 @@ items:
     file: content/fr/pages/au-programme/les/_index.html
   path: "/pages/au-programme"
   file: content/fr/pages/au-programme/_index.html
-- title: Promos
-  target: "/promos/"
+- title: Qui sommes nous ?
+  target: "/qui-sommes-nous/"
   kind: page
   new_tab: false
   children: []
-  path: "/pages/promos"
-  file: content/fr/pages/promos/_index.html
+  path: "/pages/qui-sommes-nous"
+  file: content/fr/pages/qui-sommes-nous/_index.html
 - title: Et après ?
   target: "/et-apres/"
   kind: page
