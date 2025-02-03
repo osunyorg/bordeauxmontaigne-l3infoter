@@ -76,7 +76,7 @@ items:
   kind: page
   new_tab: false
   children:
-  - title: La promo
+  - title: Promo 2024
     target: "/qui-sommes-nous/la-promo/"
     kind: page
     new_tab: false
