@@ -15,6 +15,13 @@ items:
   children: []
   path: "/pages/promos"
   file: content/fr/pages/promos/_index.html
+- title: Et après ?
+  target: "/et-apres/"
+  kind: page
+  new_tab: false
+  children: []
+  path: "/pages/et-apres"
+  file: content/fr/pages/et-apres/_index.html
 - title: Boîte à outils
   target: "/boite-a-outils/"
   kind: page
@@ -43,13 +50,6 @@ items:
   children: []
   path: "/persons"
   file: content/fr/persons/_index.html
-- title: Et après ?
-  target: "/et-apres/"
-  kind: page
-  new_tab: false
-  children: []
-  path: "/pages/et-apres"
-  file: content/fr/pages/et-apres/_index.html
 - title: Organisations
   target: "/organisations/"
   kind: page
