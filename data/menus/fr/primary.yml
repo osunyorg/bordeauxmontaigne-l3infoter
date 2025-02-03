@@ -32,6 +32,13 @@ items:
       children: []
       path: "/pages/au-programme/les/capcom"
       file: content/fr/pages/au-programme/les/capcom/_index.html
+    - title: Visites
+      target: "/au-programme/les/visites/"
+      kind: page
+      new_tab: false
+      children: []
+      path: "/pages/au-programme/les/visites"
+      file: content/fr/pages/au-programme/les/visites/_index.html
     path: "/pages/au-programme/les"
     file: content/fr/pages/au-programme/les/_index.html
   path: "/pages/au-programme"
