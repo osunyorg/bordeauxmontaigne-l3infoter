@@ -36,4 +36,11 @@ items:
   children: []
   path: "/organizations"
   file: content/fr/organizations/_index.html
+- title: Promos
+  target: "/promos/"
+  kind: page
+  new_tab: false
+  children: []
+  path: "/pages/promos"
+  file: content/fr/pages/promos/_index.html
 
