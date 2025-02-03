@@ -22,6 +22,13 @@ items:
   children: []
   path: "/posts"
   file: content/fr/posts/_index.html
+- title: Boîte à outils
+  target: "/boite-a-outils/"
+  kind: page
+  new_tab: false
+  children: []
+  path: "/pages/boite-a-outils"
+  file: content/fr/pages/boite-a-outils/_index.html
 - title: Agenda
   target: "/agenda/"
   kind: page
@@ -43,11 +50,4 @@ items:
   children: []
   path: "/organizations"
   file: content/fr/organizations/_index.html
-- title: Boîte à outils
-  target: "/boite-a-outils/"
-  kind: page
-  new_tab: false
-  children: []
-  path: "/pages/boite-a-outils"
-  file: content/fr/pages/boite-a-outils/_index.html
 
