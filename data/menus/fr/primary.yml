@@ -130,13 +130,13 @@ items:
       children: []
       path: "/pages/et-apres/poursuite-detudes/communication"
       file: content/fr/pages/et-apres/poursuite-detudes/communication/_index.html
-    - title: Communication
-      target: "/et-apres/poursuite-detudes/communication-1/"
+    - title: Journalisme
+      target: "/et-apres/poursuite-detudes/journalisme/"
       kind: page
       new_tab: false
       children: []
-      path: "/pages/et-apres/poursuite-detudes/communication-1"
-      file: content/fr/pages/et-apres/poursuite-detudes/communication-1/_index.html
+      path: "/pages/et-apres/poursuite-detudes/journalisme"
+      file: content/fr/pages/et-apres/poursuite-detudes/journalisme/_index.html
     path: "/pages/et-apres/poursuite-detudes"
     file: content/fr/pages/et-apres/poursuite-detudes/_index.html
   - title: Vie pro
