@@ -77,12 +77,12 @@ items:
   new_tab: false
   children:
   - title: Promo 2024
-    target: "/qui-sommes-nous/la-promo/"
+    target: "/qui-sommes-nous/promo/"
     kind: page
     new_tab: false
     children: []
-    path: "/pages/qui-sommes-nous/la-promo"
-    file: content/fr/pages/qui-sommes-nous/la-promo/_index.html
+    path: "/pages/qui-sommes-nous/promo"
+    file: content/fr/pages/qui-sommes-nous/promo/_index.html
   - title: Les anciens
     target: "/qui-sommes-nous/les-anciens/"
     kind: page
