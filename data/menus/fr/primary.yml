@@ -25,6 +25,13 @@ items:
       children: []
       path: "/pages/au-programme/les-ateliers/com-licence"
       file: content/fr/pages/au-programme/les-ateliers/com-licence/_index.html
+    - title: PAO
+      target: "/au-programme/les-ateliers/pao/"
+      kind: page
+      new_tab: false
+      children: []
+      path: "/pages/au-programme/les-ateliers/pao"
+      file: content/fr/pages/au-programme/les-ateliers/pao/_index.html
     path: "/pages/au-programme/les-ateliers"
     file: content/fr/pages/au-programme/les-ateliers/_index.html
   - title: Les +
