@@ -32,6 +32,13 @@ items:
       children: []
       path: "/pages/au-programme/les-ateliers/pao"
       file: content/fr/pages/au-programme/les-ateliers/pao/_index.html
+    - title: Com événementielle
+      target: "/au-programme/les-ateliers/com-evenementielle/"
+      kind: page
+      new_tab: false
+      children: []
+      path: "/pages/au-programme/les-ateliers/com-evenementielle"
+      file: content/fr/pages/au-programme/les-ateliers/com-evenementielle/_index.html
     path: "/pages/au-programme/les-ateliers"
     file: content/fr/pages/au-programme/les-ateliers/_index.html
   - title: Les +
