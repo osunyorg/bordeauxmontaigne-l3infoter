@@ -83,13 +83,13 @@ items:
     children: []
     path: "/pages/qui-sommes-nous/promo"
     file: content/fr/pages/qui-sommes-nous/promo/_index.html
-  - title: Les anciens
-    target: "/qui-sommes-nous/les-anciens/"
+  - title: Anciens élèves
+    target: "/qui-sommes-nous/anciens-eleves/"
     kind: page
     new_tab: false
     children: []
-    path: "/pages/qui-sommes-nous/les-anciens"
-    file: content/fr/pages/qui-sommes-nous/les-anciens/_index.html
+    path: "/pages/qui-sommes-nous/anciens-eleves"
+    file: content/fr/pages/qui-sommes-nous/anciens-eleves/_index.html
   path: "/pages/qui-sommes-nous"
   file: content/fr/pages/qui-sommes-nous/_index.html
 - title: Boîte à outils
