@@ -75,7 +75,14 @@ items:
   target: "/qui-sommes-nous/"
   kind: page
   new_tab: false
-  children: []
+  children:
+  - title: La promo
+    target: "/qui-sommes-nous/la-promo/"
+    kind: page
+    new_tab: false
+    children: []
+    path: "/pages/qui-sommes-nous/la-promo"
+    file: content/fr/pages/qui-sommes-nous/la-promo/_index.html
   path: "/pages/qui-sommes-nous"
   file: content/fr/pages/qui-sommes-nous/_index.html
 - title: Et après ?
