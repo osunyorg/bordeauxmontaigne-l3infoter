@@ -43,13 +43,6 @@ items:
   children: []
   path: "/persons"
   file: content/fr/persons/_index.html
-- title: Organisations
-  target: "/organisations/"
-  kind: page
-  new_tab: false
-  children: []
-  path: "/organizations"
-  file: content/fr/organizations/_index.html
 - title: Et après ?
   target: "/et-apres/"
   kind: page
@@ -57,4 +50,11 @@ items:
   children: []
   path: "/pages/et-apres"
   file: content/fr/pages/et-apres/_index.html
+- title: Organisations
+  target: "/organisations/"
+  kind: page
+  new_tab: false
+  children: []
+  path: "/organizations"
+  file: content/fr/organizations/_index.html
 
