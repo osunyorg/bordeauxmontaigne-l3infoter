@@ -117,7 +117,21 @@ items:
   target: "/et-apres/"
   kind: page
   new_tab: false
-  children: []
+  children:
+  - title: Poursuite d'études
+    target: "/et-apres/poursuite-detudes/"
+    kind: page
+    new_tab: false
+    children: []
+    path: "/pages/et-apres/poursuite-detudes"
+    file: content/fr/pages/et-apres/poursuite-detudes/_index.html
+  - title: Vie pro
+    target: "/et-apres/vie-pro/"
+    kind: page
+    new_tab: false
+    children: []
+    path: "/pages/et-apres/vie-pro"
+    file: content/fr/pages/et-apres/vie-pro/_index.html
   path: "/pages/et-apres"
   file: content/fr/pages/et-apres/_index.html
 - title: Actualités
