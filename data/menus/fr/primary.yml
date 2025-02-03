@@ -20,6 +20,13 @@ items:
     children: []
     path: "/pages/au-programme/les-ateliers"
     file: content/fr/pages/au-programme/les-ateliers/_index.html
+  - title: Les +
+    target: "/au-programme/les/"
+    kind: page
+    new_tab: false
+    children: []
+    path: "/pages/au-programme/les"
+    file: content/fr/pages/au-programme/les/_index.html
   path: "/pages/au-programme"
   file: content/fr/pages/au-programme/_index.html
 - title: Promos
