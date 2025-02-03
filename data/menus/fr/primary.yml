@@ -103,7 +103,14 @@ items:
   target: "/boite-a-outils/"
   kind: page
   new_tab: false
-  children: []
+  children:
+  - title: L'alternance
+    target: "/boite-a-outils/lalternance/"
+    kind: page
+    new_tab: false
+    children: []
+    path: "/pages/boite-a-outils/lalternance"
+    file: content/fr/pages/boite-a-outils/lalternance/_index.html
   path: "/pages/boite-a-outils"
   file: content/fr/pages/boite-a-outils/_index.html
 - title: Actualités
