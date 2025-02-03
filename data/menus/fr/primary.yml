@@ -148,11 +148,4 @@ items:
     file: content/fr/pages/et-apres/vie-pro/_index.html
   path: "/pages/et-apres"
   file: content/fr/pages/et-apres/_index.html
-- title: Actualités
-  target: "/actualites/"
-  kind: page
-  new_tab: false
-  children: []
-  path: "/posts"
-  file: content/fr/posts/_index.html
 
