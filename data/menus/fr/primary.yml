@@ -104,13 +104,13 @@ items:
     children: []
     path: "/pages/boite-a-outils/alternance"
     file: content/fr/pages/boite-a-outils/alternance/_index.html
-  - title: Les entreprises
-    target: "/boite-a-outils/les-entreprises/"
+  - title: Organisations
+    target: "/boite-a-outils/organisations/"
     kind: page
     new_tab: false
     children: []
-    path: "/pages/boite-a-outils/les-entreprises"
-    file: content/fr/pages/boite-a-outils/les-entreprises/_index.html
+    path: "/organizations"
+    file: content/fr/organizations/_index.html
   path: "/pages/boite-a-outils"
   file: content/fr/pages/boite-a-outils/_index.html
 - title: Et après ?
@@ -169,11 +169,4 @@ items:
   children: []
   path: "/persons"
   file: content/fr/persons/_index.html
-- title: Organisations
-  target: "/organisations/"
-  kind: page
-  new_tab: false
-  children: []
-  path: "/organizations"
-  file: content/fr/organizations/_index.html
 
