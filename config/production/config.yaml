@@ -2,6 +2,11 @@
 
 baseURL: https://l3infoter.bordeauxmontaigne.osuny.site
 
+## OSUNY
+osuny:
+  website:
+    id: 4c7e60e9-0b9f-4595-8d40-a66058da61f2
+
 ## LANGUAGE
 defaultContentLanguage: fr
 defaultContentLanguageInSubdir: false
