@@ -21,13 +21,6 @@ fr:
           value: >-
             https://www.linkedin.com/in/l3-information-communication-parcours-information-territoriale-672024234?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app
 
-  permalinks:
-    pages_categories: /:slug/
-    posts: /actualites/:year-:month-:day-:slug/
-    posts_categories: /actualites/:slug/
-    persons: /equipe/:slug/
-    persons_categories: /equipe/categories/:slug/
-    authors: /equipe/:slug/actualites/
   taxonomies:
     administrator: administrators
     author: authors
