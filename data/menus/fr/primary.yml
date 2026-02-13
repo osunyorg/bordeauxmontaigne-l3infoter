@@ -2,150 +2,217 @@
 title: Menu principal
 items:
 - title: Au programme
+  slug: au-programme
   target: "/au-programme/"
   kind: page
   new_tab: false
   children:
   - title: Magazine
+    slug: magazine
     target: "/au-programme/magazine/"
     kind: page
     new_tab: false
     children: []
+    descendants_targets: []
     path: "/pages/au-programme/magazine"
     file: content/fr/pages/au-programme/magazine/_index.html
   - title: Ateliers
+    slug: ateliers
     target: "/au-programme/ateliers/"
     kind: page
     new_tab: false
     children:
     - title: Com licence
+      slug: com-licence
       target: "/au-programme/ateliers/com-licence/"
       kind: page
       new_tab: false
       children: []
+      descendants_targets: []
       path: "/pages/au-programme/ateliers/com-licence"
       file: content/fr/pages/au-programme/ateliers/com-licence/_index.html
     - title: PAO
+      slug: pao
       target: "/au-programme/ateliers/pao/"
       kind: page
       new_tab: false
       children: []
+      descendants_targets: []
       path: "/pages/au-programme/ateliers/pao"
       file: content/fr/pages/au-programme/ateliers/pao/_index.html
     - title: Com événementielle
+      slug: com-evenementielle
       target: "/au-programme/ateliers/com-evenementielle/"
       kind: page
       new_tab: false
       children: []
+      descendants_targets: []
       path: "/pages/au-programme/ateliers/com-evenementielle"
       file: content/fr/pages/au-programme/ateliers/com-evenementielle/_index.html
     - title: Écriture
+      slug: ecriture
       target: "/au-programme/ateliers/ecriture/"
       kind: page
       new_tab: false
       children: []
+      descendants_targets: []
       path: "/pages/au-programme/ateliers/ecriture"
       file: content/fr/pages/au-programme/ateliers/ecriture/_index.html
+    descendants_targets:
+    - "/au-programme/ateliers/com-evenementielle/"
+    - "/au-programme/ateliers/com-licence/"
+    - "/au-programme/ateliers/ecriture/"
+    - "/au-programme/ateliers/pao/"
     path: "/pages/au-programme/ateliers"
     file: content/fr/pages/au-programme/ateliers/_index.html
   - title: Les +
+    slug: les
     target: "/au-programme/les/"
     kind: page
     new_tab: false
     children:
     - title: Cap'Com
+      slug: cap-com
       target: "/au-programme/les/capcom/"
       kind: page
       new_tab: false
       children: []
+      descendants_targets: []
       path: "/pages/au-programme/les/capcom"
       file: content/fr/pages/au-programme/les/capcom/_index.html
     - title: Visites
+      slug: visites
       target: "/au-programme/les/visites/"
       kind: page
       new_tab: false
       children: []
+      descendants_targets: []
       path: "/pages/au-programme/les/visites"
       file: content/fr/pages/au-programme/les/visites/_index.html
+    descendants_targets:
+    - "/au-programme/les/capcom/"
+    - "/au-programme/les/visites/"
     path: "/pages/au-programme/les"
     file: content/fr/pages/au-programme/les/_index.html
+  descendants_targets:
+  - "/au-programme/ateliers/"
+  - "/au-programme/ateliers/com-evenementielle/"
+  - "/au-programme/ateliers/com-licence/"
+  - "/au-programme/ateliers/ecriture/"
+  - "/au-programme/ateliers/pao/"
+  - "/au-programme/les/"
+  - "/au-programme/les/capcom/"
+  - "/au-programme/les/visites/"
+  - "/au-programme/magazine/"
   path: "/pages/au-programme"
   file: content/fr/pages/au-programme/_index.html
 - title: Qui sommes nous ?
+  slug: qui-sommes-nous
   target: "/qui-sommes-nous/"
   kind: page
   new_tab: false
   children:
   - title: Promo 2024
+    slug: promo-2024
     target: "/qui-sommes-nous/promo/"
     kind: page
     new_tab: false
     children: []
+    descendants_targets: []
     path: "/pages/qui-sommes-nous/promo"
     file: content/fr/pages/qui-sommes-nous/promo/_index.html
   - title: Anciens élèves
+    slug: anciens-eleves
     target: "/qui-sommes-nous/anciens-eleves/"
     kind: page
     new_tab: false
     children: []
+    descendants_targets: []
     path: "/pages/qui-sommes-nous/anciens-eleves"
     file: content/fr/pages/qui-sommes-nous/anciens-eleves/_index.html
+  descendants_targets:
+  - "/qui-sommes-nous/anciens-eleves/"
+  - "/qui-sommes-nous/promo/"
   path: "/pages/qui-sommes-nous"
   file: content/fr/pages/qui-sommes-nous/_index.html
 - title: Boîte à outils
+  slug: boite-a-outils
   target: "/boite-a-outils/"
   kind: page
   new_tab: false
   children:
   - title: Alternance
+    slug: alternance
     target: "/boite-a-outils/alternance/"
     kind: page
     new_tab: false
     children: []
+    descendants_targets: []
     path: "/pages/boite-a-outils/alternance"
     file: content/fr/pages/boite-a-outils/alternance/_index.html
   - title: Organisations
+    slug: organisations
     target: "/boite-a-outils/organisations/"
     kind: page
     new_tab: false
     children: []
+    descendants_targets: []
     path: "/organizations"
     file: content/fr/organizations/_index.html
+  descendants_targets:
+  - "/boite-a-outils/alternance/"
+  - "/boite-a-outils/organisations/"
   path: "/pages/boite-a-outils"
   file: content/fr/pages/boite-a-outils/_index.html
 - title: Et après ?
+  slug: et-apres
   target: "/et-apres/"
   kind: page
   new_tab: false
   children:
   - title: Poursuite d'études
+    slug: poursuite-d-etudes
     target: "/et-apres/poursuite-detudes/"
     kind: page
     new_tab: false
     children:
     - title: Communication
+      slug: communication
       target: "/et-apres/poursuite-detudes/communication/"
       kind: page
       new_tab: false
       children: []
+      descendants_targets: []
       path: "/pages/et-apres/poursuite-detudes/communication"
       file: content/fr/pages/et-apres/poursuite-detudes/communication/_index.html
     - title: Journalisme
+      slug: journalisme
       target: "/et-apres/poursuite-detudes/journalisme/"
       kind: page
       new_tab: false
       children: []
+      descendants_targets: []
       path: "/pages/et-apres/poursuite-detudes/journalisme"
       file: content/fr/pages/et-apres/poursuite-detudes/journalisme/_index.html
+    descendants_targets:
+    - "/et-apres/poursuite-detudes/communication/"
+    - "/et-apres/poursuite-detudes/journalisme/"
     path: "/pages/et-apres/poursuite-detudes"
     file: content/fr/pages/et-apres/poursuite-detudes/_index.html
   - title: Vie pro
+    slug: vie-pro
     target: "/et-apres/vie-pro/"
     kind: page
     new_tab: false
     children: []
+    descendants_targets: []
     path: "/pages/et-apres/vie-pro"
     file: content/fr/pages/et-apres/vie-pro/_index.html
+  descendants_targets:
+  - "/et-apres/poursuite-detudes/"
+  - "/et-apres/poursuite-detudes/communication/"
+  - "/et-apres/poursuite-detudes/journalisme/"
+  - "/et-apres/vie-pro/"
   path: "/pages/et-apres"
   file: content/fr/pages/et-apres/_index.html
 
