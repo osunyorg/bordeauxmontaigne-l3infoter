@@ -13,3 +13,64 @@ Cache-Control = "max-age=31536000, no-transform, public"
 for = ["**/*.png", "**/*.jpg", "**/*.jpeg", "**/*.gif", "**/*.webp"]
 [headers.values]
 Cache-Control = "max-age=31536000, no-transform, public"
+
+[[redirects]]
+from = "/au-programme/les-ateliers/ecriture/"
+to = "/au-programme/ateliers/ecriture/"
+
+[[redirects]]
+from = "/et-apres/poursuite-detudes/communication-1/"
+to = "/et-apres/poursuite-detudes/journalisme/"
+
+[[redirects]]
+from = "/qui-sommes-nous/promo2024/"
+to = "/qui-sommes-nous/promo/de-la-communication-territoriale-au-journalisme-culturel/"
+
+[[redirects]]
+from = "/au-programme/les-ateliers/pao/"
+to = "/au-programme/ateliers/pao/"
+
+[[redirects]]
+from = "/au-programme/le-magazine/"
+to = "/au-programme/magazine/"
+
+[[redirects]]
+from = "/qui-sommes-nous/promo/louis-de-la-communication-territoriale-au-journalisme-culturel/"
+to = "/qui-sommes-nous/promo/de-la-communication-territoriale-au-journalisme-culturel/"
+
+[[redirects]]
+from = "/au-programme/les-ateliers/com-evenementielle/"
+to = "/au-programme/ateliers/com-evenementielle/"
+
+[[redirects]]
+from = "/qui-sommes-nous/la-promo/"
+to = "/qui-sommes-nous/promo/"
+
+[[redirects]]
+from = "/boite-a-outils/lalternance/"
+to = "/boite-a-outils/alternance/"
+
+[[redirects]]
+from = "/promos/"
+to = "/qui-sommes-nous/"
+
+[[redirects]]
+from = "/au-programme/les-ateliers/com-licence/"
+to = "/au-programme/ateliers/com-licence/"
+
+[[redirects]]
+from = "/organisations/"
+to = "/boite-a-outils/organisations/"
+
+[[redirects]]
+from = "/qui-sommes-nous/la-promo/lacommunicationinterne/"
+to = "/qui-sommes-nous/promo/"
+
+[[redirects]]
+from = "/au-programme/les-ateliers/"
+to = "/au-programme/ateliers/"
+
+[[redirects]]
+from = "/qui-sommes-nous/les-anciens/"
+to = "/qui-sommes-nous/anciens-eleves/"
+
